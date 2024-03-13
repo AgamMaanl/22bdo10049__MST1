@@ -1,4 +1,4 @@
-![image](https://github.com/AgamMaanl/22bdo10049__MST1/assets/113833384/4115ea17-3673-4e44-a166-28cd6144894b)# 22bdo10049__MST1
+# 22bdo10049__MST1
 this is my lab mst1  project  and the problem is given in the README file
 
 Git Lab Exercise & Assignment: Remote workflow: Part – 2
